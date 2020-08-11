@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158521291753",
+    "firebase_url": "https://fathurwa-ea88c.firebaseio.com",
+    "project_id": "fathurwa-ea88c",
+    "storage_bucket": "fathurwa-ea88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158521291753:android:054df00f918c274d541178",
+        "android_client_info": {
+          "package_name": "com.idn.fathurwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158521291753-6m46s1thgqgauc81nicqt4642dj28r50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idn.fathurwa",
+            "certificate_hash": "718c518a02f05504d431ab71c9e9b6d888398fa5"
+          }
+        },
+        {
+          "client_id": "158521291753-g97hev6tnm9unsngdak0co1mufkeslns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEXMLAkY93LOpESDL71nVjNafR9pPwvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158521291753-g97hev6tnm9unsngdak0co1mufkeslns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
